@@ -8,7 +8,6 @@
 ```
 Learning/
 └─ README.md
-
 ```
 
 # 備考
